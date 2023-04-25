@@ -1,0 +1,25 @@
+/**
+ * In this file we will include our different partials.
+ */
+
+/**
+ * Import variables
+ */
+ @import "_variables.css";
+
+/**
+ * Import FontAwesome
+ */
+@import "npm:@fortawesome/fontawesome-free/css/all.css";  
+
+/* src/main.css */
+@import '_reset.css';
+@import '_elements.css';
+
+/* autoprefixer grid: autoplace */
+body {
+    display: flex;
+  }
+h1 {
+  display: flex;
+}
