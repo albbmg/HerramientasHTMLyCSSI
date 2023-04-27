@@ -13,11 +13,13 @@
     --secondary-subtitles-font: 20px;
     --text-font: 16px;
 
+    --secondary-titles-font-mobile: 35px;
+
     --titles-weight: bold;
     --text-weight: normal;
 
     --line-height-desktop: 60px; 
-    --line-height-mobile: 40px;
+    --line-height-mobile: 50px;
 
     /* Espacios */
     --small-space: 0.5rem; 

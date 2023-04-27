@@ -9,10 +9,11 @@
   --subtitles-font: 22px;
   --secondary-subtitles-font: 20px;
   --text-font: 16px;
+  --secondary-titles-font-mobile: 35px;
   --titles-weight: bold;
   --text-weight: normal;
   --line-height-desktop: 60px;
-  --line-height-mobile: 40px;
+  --line-height-mobile: 50px;
   --small-space: .5rem;
   --mid-space: 1rem;
   --big-space: 2rem;
@@ -8443,6 +8444,7 @@ footer {
 
   .info img {
     margin-top: var(--big-space);
+    height: auto;
   }
 
   .inner {
@@ -8469,13 +8471,18 @@ footer {
 }
 
 @media screen and (max-width: 768px) {
-  body {
+  main {
     padding: 0 var(--small-space);
   }
 
   h1 {
     font-size: var(--secondary-titles-font);
     line-height: var(--line-height-mobile);
+  }
+
+  h2 {
+    font-size: var(--secondary-titles-font-mobile);
+    line-height: 30px;
   }
 
   .social-icons {

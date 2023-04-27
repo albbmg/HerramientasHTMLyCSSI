@@ -399,6 +399,7 @@ footer {
   }
   .info img {
     margin-top: var(--big-space );
+    height: auto; 
   }
 
   .inner {
@@ -423,12 +424,16 @@ footer {
 }
 
 @media screen and (max-width: 768px) {
-  body {
+  main {
     padding: 0 var(--small-space ); 
   }
   h1 {
     font-size: var(--secondary-titles-font );
     line-height: var(--line-height-mobile);
+  }
+  h2 {
+    font-size: var(--secondary-titles-font-mobile);
+    line-height: 30px; 
   } 
 
   .social-icons { 
