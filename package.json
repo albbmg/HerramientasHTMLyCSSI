@@ -2,6 +2,7 @@
   "name": "pec1_package",
   "version": "1.0.0",
   "description": "Boilerplate used for PEC1 project",
+  "browserslist": "> 0.5%, last 2 versions, not dead",
   "scripts": {
     "parcel:serve": "parcel src/index.html -p 1234 --target web --open",
     "parcel:build": "parcel build src/index.html --target web --no-source-maps --no-cache",
