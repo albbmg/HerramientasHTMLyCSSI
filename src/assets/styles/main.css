@@ -428,7 +428,7 @@ footer {
     padding: 0 var(--small-space ); 
   }
   h1 {
-    font-size: var(--secondary-titles-font );
+    font-size: 35px;
     line-height: var(--line-height-mobile);
   }
   h2 {

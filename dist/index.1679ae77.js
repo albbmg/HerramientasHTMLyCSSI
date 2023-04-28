@@ -1,1 +1,0 @@
-var image=document.querySelector(".image-burgos"),description=document.querySelector(".description");image.addEventListener("click",(function(){"none"===description.style.display?description.style.display="block":description.style.display="none"}));
