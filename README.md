@@ -35,3 +35,13 @@ npm run build
 ## Conclusion
 
 We hope this guide helps you get started with Burgos City Portal. Happy exploring!
+
+## Resources
+
+All media used in this project has been obtained from: 
+
+projects, C.to W. (2023) Wikimedia Commons. Wikimedia Foundation, Inc. Available at: https://commons.wikimedia.org/wiki/Main_Page (Accessed: April 28, 2023). 
+
+Iconos y stickers gratuitos - millones de recursos para descargar (no date) Flaticon. Available at: https://www.flaticon.es/ (Accessed: April 28, 2023). 
+
+Authorjoseangel.herranz@teseo.es et al. (2023) Inicio, Turismo Burgos. Available at: https://turismoburgos.org/ (Accessed: April 28, 2023). 
